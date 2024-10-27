@@ -13,7 +13,7 @@ export default function App() {
   return (
 
     <div>
-      Tutorial Link : <a href='https://www.youtube.com/watch?v=hl2b4q-Jbqc' target='blank'>React Lab</a>
+      
       {/* <div>1). hello <br></br><One></One></div>
       <hr></hr>
      <div>2). Counter <br></br>  <Two></Two></div> 
